@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppWinSwitcher", "AppWinSwitcher\AppWinSwitcher.csproj", "{CA6E4686-D2F1-4CF2-B080-42118C597693}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA6E4686-D2F1-4CF2-B080-42118C597693}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA6E4686-D2F1-4CF2-B080-42118C597693}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA6E4686-D2F1-4CF2-B080-42118C597693}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA6E4686-D2F1-4CF2-B080-42118C597693}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E08F686-13FB-4500-B74B-DA7307F94629}
+	EndGlobalSection
+EndGlobal

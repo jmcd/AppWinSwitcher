@@ -1,0 +1,23 @@
+//
+// Winuser.h things
+//
+
+// Windows hook
+CallNextHookEx
+SetWindowsHookEx
+KBDLLHOOKSTRUCT
+
+// Window interrogation
+GetForegroundWindow
+IsWindowVisible
+IsIconic
+EnumWindows
+GetWindowText
+GetWindowTextLength
+GetWindowThreadProcessId
+
+// Window "pop"
+SetForegroundWindow
+
+// Consts and enums
+WM_*
